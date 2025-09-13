@@ -28,7 +28,7 @@ metadata:
     app: akhil-app
 spec:
   selector:
-    app: akhil-deploy-lbl
+    app: akhil-app
 
   type: NodePort
   ports:
